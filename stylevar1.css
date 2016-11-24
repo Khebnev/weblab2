@@ -1,0 +1,85 @@
+.body {font: 16px/24px Arial, Tahoma, sans-serif;
+	
+}
+header>div{
+	height: 81px;
+	background: url(images/headerr.png) no-repeat 0 0;
+}
+header div a{display: block; width: 108px; margin-left: 40px; top: 16px;}
+.nav {
+	display: block;
+	margin-left: 4px;
+	width: 100%;
+}
+.menu {
+	position: absolute;
+	color: fff;
+	display: block;
+	background:url(images/main1.png) repeat-y 50% 50%;
+	padding: 10px 4px 10px 4px;
+	width: 178px;
+	height: 150px;
+}
+.menur {
+
+}
+a.textmenu {
+	color: fff;
+	position:absolute;
+	left:20px;
+	text-decoration: none;
+}
+.left {
+	float: left;
+	width: 188px;
+}
+.right {
+	float: right;
+	width: 587px;
+}
+.novelty {
+	position: relative;
+	height: 46px;
+	width: 188px;
+	top: 185px;
+	margin-left: 11px;
+}
+.audio {
+	position: relative;
+	height: 92px;
+	width: 178px;
+	top: 185px;
+	margin-left: 11px;
+}
+.mouse {
+	position: relative;
+	height: 63px;
+	width: 192px;
+	top: 185px;
+	margin-left: 11px;
+}
+.news {
+	background:url(image/bgnews.png);
+}
+
+.compbottom {
+	position: absolute;
+	width: 587px;
+	left: 188px;
+}
+.comptop {
+	float: right;
+}
+.fmm {
+	position: absolute;
+	margin-top: 143px;
+	margin-left: 4px;
+	width: 178px;
+}
+
+#ft {
+	position: absolute;
+	width: 589px;
+	left: 188px;
+	height: 25px;
+}
